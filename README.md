@@ -4,7 +4,7 @@
 
 O HoopLink reúne em um só lugar as peneiras de clubes verificados, um mapa interativo de quadras e comunidades de jogadores ligadas a cada quadra. O lançamento piloto está previsto para a Região Metropolitana de Belo Horizonte (RMBH), com arquitetura pensada para expansão nacional.
 
-> **Status:** planejamento concluído. A implementação está prevista entre 26/10/2026 e 29/11/2026, em cinco sprints semanais.
+> **Status:** planejamento concluído. A implementação está prevista entre 26/10/2026 e 01/06/2027.
 
 ---
 
